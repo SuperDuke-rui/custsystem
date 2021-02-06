@@ -1,0 +1,70 @@
+@charset "UTF-8";
+body {
+	margin: 0px;
+	border: 0px;
+}
+
+.top_blank {
+	height: 100px;
+}
+
+.container {
+	margin-top: 0;
+	margin: 0 auto;
+	width: 1000px;
+	height: 600px;
+	background: url(../images/login_bg.jpg) no-repeat;
+}
+
+#header {
+	float: left;
+	width: 100%;
+	height: 200px;
+}
+
+#left {
+	float: left;
+	width: 500px;
+	height: 200px;
+	margin-top: 0;
+}
+
+#left p {
+	margin: 0 0 0 100px;
+	font: normal 700 40px/200px "华文行楷";
+	
+	color: red;
+}
+
+#right {
+	float: left;
+	margin-left: 0;
+	width: 500px;
+	height: 200px;
+}
+
+#footer p {
+	float: left;
+	width: 1000px;
+	height: 100px;
+	color: #666;
+	font: normal 700 15px/100px "微软雅黑";
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font: normal 700 30px/200px "华文行楷";
+	text-align: center;
+	margin: 0;
+}
+
+.table {
+	background-color: rgba(255, 255, 255, .6);
+	margin-left: 20px;
+	padding:30px;
+}
+
+#11 {
+	float: right;
+}
